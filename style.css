@@ -1,0 +1,57 @@
+body{
+    background: rgb(241, 237, 237);
+    margin: 0;
+}
+
+header{
+    background-color: white;
+    padding: 1px;
+}
+
+h1 {
+    margin-left: 30%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box {
+    margin: 3% 30%;
+    width: 15cm;
+    height: 15cm;
+    background: white;
+}
+
+h2 {
+    margin: 10px 10px;
+    display:inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    right: 20px;
+    display: inline;
+    position:relative;
+    float: right;
+    top: 15px;
+    color: rgba(128, 128, 128, 0.507);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 15cm;
+    height: 12cm;
+}
+
+p {
+    margin: 10px;
+    text-align: justify;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
