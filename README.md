@@ -24,3 +24,9 @@ $ pip3 install flask && python3 server.py
   ...
 </head>
 ```
+
+EXPLICACIÓN:
+
+Empecé poniendo el título de la página en el header del body, y tuve que ponerle margen 0 al body porque era la única forma en que el ancho del header cubría todo el ancho del body.
+
+Después lo que hice fue crear un div 'box' que copié para todas las fotos, solo que cambiando las imágenes y el texto.

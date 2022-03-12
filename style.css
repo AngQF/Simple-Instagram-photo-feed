@@ -28,10 +28,9 @@ h2 {
 
 span {
     right: 20px;
-    display: inline;
-    position:relative;
+    position: relative;
     float: right;
-    top: 15px;
+    margin-top: 15px;
     color: rgba(128, 128, 128, 0.507);
     font-family: Arial, Helvetica, sans-serif;
 }
